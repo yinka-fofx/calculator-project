@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+.calculator-body {
+    height: 70vh;
+    width: 70vh;
+    background-color:white;
+    border: 2px solid;
+}
+
+.my-alert {
+    border-bottom: 2px solid !important; 
+}
+
+
+.textarea {
+    width: 550px;
+    background-color: white;
+    height: 10vh;
+    margin-left: 30px;
+    border: 5px solid;
+}
+
+
+
+
+
+
